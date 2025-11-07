@@ -2,6 +2,8 @@
 
 A simple web-based weather forecast application that fetches real-time weather data using APIs. Users can search for any city and view the current temperature, weather conditions, humidity, and wind speed.  
 
+Check it out here: [Weather Forecast](https://yatinannam.github.io/Weather-Forecast/)
+
 ## Features  
 - Real-time weather updates for any location  
 - Displays temperature, weather conditions, humidity, and wind speed  
